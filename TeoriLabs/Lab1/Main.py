@@ -1,0 +1,1 @@
+def compare(num):    """Перевіряє, чи сума перших двох цифр дорівнює сумі останніх двох"""    return num[0] + num[1] == num[2] + num[3]m = 0n = 9000f = 1000for _ in range(n):    digits = [int(x) for x in str(f)]    f += 1    if compare(digits):        m += 1  # Лічильник сприятливих випадківp = m / n  # Ймовірністьprint("Ймовірність події: ", p)
