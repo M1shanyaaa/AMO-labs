@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6805a669-fdc5-4849-b890-783e326c3b8d" name="Changes" comment="lab4 v1">
-      <change afterPath="$PROJECT_DIR$/TeoriLabs/Lab3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeoriLabs/Lab3/est.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeoriLabs/Lab3/main.py" afterDir="false" />
+    <list default="true" id="6805a669-fdc5-4849-b890-783e326c3b8d" name="Changes" comment="lab3 v1 teor vir">
+      <change afterPath="$PROJECT_DIR$/Lab5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning/list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/lab3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/lab3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,27 +38,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Main.executor": "Run",
-    "Python.est.executor": "Run",
-    "Python.gen_num.executor": "Run",
-    "Python.lab3.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.try.executor": "Run",
-    "Python.try1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Mishanya/PycharmProjects/pythonAMO_labs",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.est.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gen_num.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mishanya/PycharmProjects/pythonAMO_labs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mishanya\PycharmProjects\pythonAMO_labs\Lab2" />
@@ -141,7 +145,11 @@
       <workItem from="1742725190510" duration="2127000" />
       <workItem from="1742806902934" duration="1556000" />
       <workItem from="1743102294871" duration="3918000" />
-      <workItem from="1743422023818" duration="10229000" />
+      <workItem from="1743422023818" duration="10732000" />
+      <workItem from="1743707554325" duration="2769000" />
+      <workItem from="1743761624606" duration="15039000" />
+      <workItem from="1744010990458" duration="1495000" />
+      <workItem from="1744047681690" duration="2249000" />
     </task>
     <task id="LOCAL-00001" summary="lab1 v0.1">
       <option name="closed" value="true" />
@@ -207,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743105013299</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lab3 v1 teor vir">
+      <option name="closed" value="true" />
+      <created>1743436624994</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743436624994</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +249,8 @@
     <MESSAGE value="lab3 v1.1" />
     <MESSAGE value="lab4 v0" />
     <MESSAGE value="lab4 v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab4 v1" />
+    <MESSAGE value="lab3 v1 teor vir" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab3 v1 teor vir" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -252,7 +269,7 @@
     <SUITE FILE_PATH="coverage/pythonAMO_labs$try1.coverage" NAME="try1 Coverage Results" MODIFIED="1739298436336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab1" />
     <SUITE FILE_PATH="coverage/pythonAMO_labs$try.coverage" NAME="try Coverage Results" MODIFIED="1742291731142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TeoriLabs/Lab2" />
     <SUITE FILE_PATH="coverage/pythonAMO_labs$est.coverage" NAME="est Coverage Results" MODIFIED="1743435175282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TeoriLabs/Lab3" />
-    <SUITE FILE_PATH="coverage/pythonAMO_labs$main.coverage" NAME="main Coverage Results" MODIFIED="1743435169632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TeoriLabs/Lab3" />
+    <SUITE FILE_PATH="coverage/pythonAMO_labs$main.coverage" NAME="main Coverage Results" MODIFIED="1744049938386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab5" />
     <SUITE FILE_PATH="coverage/pythonAMO_labs$Main.coverage" NAME="Main Coverage Results" MODIFIED="1740155358068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TeoriLabs/Lab1" />
     <SUITE FILE_PATH="coverage/pythonAMO_labs$gen_num.coverage" NAME="gen_num Coverage Results" MODIFIED="1741593237691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
   </component>
