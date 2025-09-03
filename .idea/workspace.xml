@@ -4,54 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6805a669-fdc5-4849-b890-783e326c3b8d" name="Changes" comment="lab5 v1">
-      <change afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/try1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab2/gen_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab2/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab3/lab3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab5/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab5/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6BD/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6BD/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ForAK/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ForAK/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ForAK/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ForAK/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/branching.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/branching.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/cyclic.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/cyclic.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/images/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/images/image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/linear.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/linear.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/try.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1/try1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1_amo/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/gen_num.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/list_for_sort" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab2/list_for_sort" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1_amo/src/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/lab3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab3/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab5/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/lab6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/lab6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab1/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab1/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab2/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab3/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab3/est.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab3/est.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab3/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab4/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab1/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab4/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TeoriLabs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab2/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="6805a669-fdc5-4849-b890-783e326c3b8d" name="Changes" comment="patch0.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,6 +163,7 @@
       <workItem from="1756901497694" duration="291000" />
       <workItem from="1756904161389" duration="50000" />
       <workItem from="1756904287707" duration="128000" />
+      <workItem from="1756904685336" duration="359000" />
     </task>
     <task id="LOCAL-00001" summary="lab1 v0.1">
       <option name="closed" value="true" />
@@ -299,7 +253,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747228259391</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="patch">
+      <option name="closed" value="true" />
+      <created>1756904924661</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1756904924661</updated>
+    </task>
+    <task id="LOCAL-00013" summary="patch0.1">
+      <option name="closed" value="true" />
+      <created>1756905045347</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1756905045347</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,7 +297,9 @@
     <MESSAGE value="lab4 v1" />
     <MESSAGE value="lab3 v1 teor vir" />
     <MESSAGE value="lab5 v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab5 v1" />
+    <MESSAGE value="patch" />
+    <MESSAGE value="patch0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="patch0.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

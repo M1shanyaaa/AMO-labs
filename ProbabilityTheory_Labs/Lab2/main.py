@@ -1,1 +1,48 @@
-import matplotlib.pyplot as pltimport numpy as npfrom sympy import Symbol, integrate# Зміннаx = Symbol("x")# Параметриsegments = [(0, 2, 0.1), (2, 3, 0.4), (3, 5, 0.2)]# Розрахунок математичного очікуванняm_integral = sum(integrate(h * x, (x, a, b)) for a, b, h in segments)# Розрахунок дисперсіїdispersion = sum(integrate(h * x**2, (x, a, b)) for a, b, h in segments) - m_integral**2# Розрахунок середньоквадратичного відхиленняsigma_value = dispersion**0.5# Розрахунок ймовірності Pinterval_start = m_integral - sigma_valueinterval_end = m_integral + sigma_valueP_theoretical = sum(    h * (min(b, interval_end) - max(a, interval_start))    for a, b, h in segments    if max(a, interval_start) < min(b, interval_end))# Генерація випадкових даних для гістограмиnp.random.seed(42)data = np.concatenate([    np.random.uniform(a, b, int(1000 * h * (b - a)))    for a, b, h in segments])# Побудова гістограмиplt.figure(figsize=(8, 6))plt.hist(data, bins=30, density=True, alpha=0.6, color='g', edgecolor='black')plt.xlabel('Значення')plt.ylabel('Частота')plt.title('Гістограма розподілу')plt.savefig("histogram.png")print("Зображення збережено як 'histogram.png'")# Виведення результатівprint(f"Математичне очікування (m) = {m_integral: .5f}")print(f"Дисперсія (D) = {dispersion: .5f}")print(f"Середньоквадратичне відхилення (σ) = {sigma_value: .5f}")print(f"Теоретична ймовірність P = {P_theoretical: .5f}")
+import matplotlib.pyplot as plt
+import numpy as np
+from sympy import Symbol, integrate
+
+# Змінна
+x = Symbol("x")
+
+# Параметри
+segments = [(0, 2, 0.1), (2, 3, 0.4), (3, 5, 0.2)]
+
+# Розрахунок математичного очікування
+m_integral = sum(integrate(h * x, (x, a, b)) for a, b, h in segments)
+
+# Розрахунок дисперсії
+dispersion = sum(integrate(h * x**2, (x, a, b)) for a, b, h in segments) - m_integral**2
+
+# Розрахунок середньоквадратичного відхилення
+sigma_value = dispersion**0.5
+
+# Розрахунок ймовірності P
+interval_start = m_integral - sigma_value
+interval_end = m_integral + sigma_value
+P_theoretical = sum(
+    h * (min(b, interval_end) - max(a, interval_start))
+    for a, b, h in segments
+    if max(a, interval_start) < min(b, interval_end)
+)
+
+# Генерація випадкових даних для гістограми
+np.random.seed(42)
+data = np.concatenate(
+    [np.random.uniform(a, b, int(1000 * h * (b - a))) for a, b, h in segments]
+)
+
+# Побудова гістограми
+plt.figure(figsize=(8, 6))
+plt.hist(data, bins=30, density=True, alpha=0.6, color="g", edgecolor="black")
+plt.xlabel("Значення")
+plt.ylabel("Частота")
+plt.title("Гістограма розподілу")
+plt.savefig("histogram.png")
+print("Зображення збережено як 'histogram.png'")
+
+# Виведення результатів
+print(f"Математичне очікування (m) = {m_integral: .5f}")
+print(f"Дисперсія (D) = {dispersion: .5f}")
+print(f"Середньоквадратичне відхилення (σ) = {sigma_value: .5f}")
+print(f"Теоретична ймовірність P = {P_theoretical: .5f}")
