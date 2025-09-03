@@ -5,16 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6805a669-fdc5-4849-b890-783e326c3b8d" name="Changes" comment="lab5 v1">
-      <change afterPath="$PROJECT_DIR$/ForAK/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForAK/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForAK/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/lab6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeoriLabs/Lab4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeoriLabs/Lab4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/try1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab2/gen_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab2/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab3/lab3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab5/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6BD/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6BD/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForAK/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ForAK/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForAK/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ForAK/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/branching.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/branching.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/cyclic.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/cyclic.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/images/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/images/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/linear.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/linear.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/try.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/try1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1_amo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/gen_num.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/list_for_sort" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab2/list_for_sort" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1_amo/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/lab3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab3/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab5/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/lab6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/lab6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab1/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab1/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms_and_calculation_Methods/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab3/est.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab3/est.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab4/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeoriLabs/Lab4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab4/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeoriLabs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProbabilityTheory_Labs/Lab2/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,33 +79,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Main.executor": "Run",
-    "Python.est.executor": "Run",
-    "Python.gen_num.executor": "Run",
-    "Python.lab3.executor": "Run",
-    "Python.lab6.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test1.executor": "Run",
-    "Python.try.executor": "Run",
-    "Python.try1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Mishanya/PycharmProjects/pythonAMO_labs",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.est.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gen_num.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mishanya/PycharmProjects/pythonAMO_labs&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Mishanya\PycharmProjects\pythonAMO_labs\Lab2" />
+      <recent name="C:\Users\Mishanya\PycharmProjects\pythonAMO_labs\Algorithms_and_calculation_Methods" />
       <recent name="C:\Users\Mishanya\PycharmProjects\pythonAMO_labs" />
+      <recent name="C:\Users\Mishanya\PycharmProjects\pythonAMO_labs\Lab2" />
       <recent name="C:\Users\Mishanya\PycharmProjects\pythonAMO_labs\Lab1" />
       <recent name="C:\Users\Mishanya\PycharmProjects\pythonAMO_labs\Lab1\images" />
     </key>
@@ -84,12 +121,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab6BD" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab4/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab6BD/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +200,16 @@
       <workItem from="1745836580921" duration="827000" />
       <workItem from="1746874909371" duration="3697000" />
       <workItem from="1746950989345" duration="5551000" />
-      <workItem from="1747218400908" duration="9529000" />
+      <workItem from="1747218400908" duration="13374000" />
+      <workItem from="1747240859906" duration="11000" />
+      <workItem from="1747559973314" duration="8000" />
+      <workItem from="1747563675523" duration="215000" />
+      <workItem from="1747563901434" duration="136000" />
+      <workItem from="1748333556573" duration="453000" />
+      <workItem from="1748704488086" duration="36000" />
+      <workItem from="1756901497694" duration="291000" />
+      <workItem from="1756904161389" duration="50000" />
+      <workItem from="1756904287707" duration="128000" />
     </task>
     <task id="LOCAL-00001" summary="lab1 v0.1">
       <option name="closed" value="true" />
@@ -245,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744050025353</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="lab5 v1">
+      <option name="closed" value="true" />
+      <created>1747228259391</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1747228259391</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +333,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Lab1/main.py</url>
+          <url>file://$PROJECT_DIR$/Algorithms_and_calculation_Methods/Lab1/main.py</url>
           <line>73</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -293,9 +347,9 @@
     <SUITE FILE_PATH="coverage/pythonAMO_labs$try1.coverage" NAME="try1 Coverage Results" MODIFIED="1739298436336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab1" />
     <SUITE FILE_PATH="coverage/pythonAMO_labs$try.coverage" NAME="try Coverage Results" MODIFIED="1742291731142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TeoriLabs/Lab2" />
     <SUITE FILE_PATH="coverage/pythonAMO_labs$est.coverage" NAME="est Coverage Results" MODIFIED="1743435175282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TeoriLabs/Lab3" />
-    <SUITE FILE_PATH="coverage/pythonAMO_labs$main.coverage" NAME="main Coverage Results" MODIFIED="1747226289452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForAK" />
+    <SUITE FILE_PATH="coverage/pythonAMO_labs$main.coverage" NAME="main Coverage Results" MODIFIED="1748333895328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TeoriLabs/Lab5" />
     <SUITE FILE_PATH="coverage/pythonAMO_labs$Main.coverage" NAME="Main Coverage Results" MODIFIED="1740155358068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TeoriLabs/Lab1" />
-    <SUITE FILE_PATH="coverage/pythonAMO_labs$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1747227517597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForAK" />
+    <SUITE FILE_PATH="coverage/pythonAMO_labs$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1747231752259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForAK" />
     <SUITE FILE_PATH="coverage/pythonAMO_labs$gen_num.coverage" NAME="gen_num Coverage Results" MODIFIED="1741593237691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
   </component>
 </project>

@@ -1,1 +1,0 @@
-import randomdef generate_random_list(length=500, min_value=1, max_value=1000):    # Генеруємо випадковий список чисел    return ' '.join(str(random.randint(min_value, max_value)) for _ in range(length))# Генерація спискуrandom_list = generate_random_list(10000, 1, 30000)print(random_list)
